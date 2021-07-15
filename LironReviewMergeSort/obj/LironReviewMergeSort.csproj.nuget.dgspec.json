@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\Visual Studio 2019\\Projects\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj": {}
+    "E:\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\Visual Studio 2019\\Projects\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj": {
+    "E:\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\Visual Studio 2019\\Projects\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj",
+        "projectUniqueName": "E:\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj",
         "projectName": "LironReviewMergeSort",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\Visual Studio 2019\\Projects\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj",
+        "projectPath": "E:\\LironReviewMergeSort\\LironReviewMergeSort\\LironReviewMergeSort.csproj",
         "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\Visual Studio 2019\\Projects\\LironReviewMergeSort\\LironReviewMergeSort\\obj\\",
+        "outputPath": "E:\\LironReviewMergeSort\\LironReviewMergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

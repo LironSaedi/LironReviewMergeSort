@@ -1,0 +1,13 @@
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.exe
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.deps.json
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.runtimeconfig.json
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.runtimeconfig.dev.json
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.dll
+E:\LironReviewMergeSort\LironReviewMergeSort\bin\Debug\netcoreapp3.1\LironReviewMergeSort.pdb
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.csprojAssemblyReference.cache
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.AssemblyInfoInputs.cache
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.AssemblyInfo.cs
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.csproj.CoreCompileInputs.cache
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.dll
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.pdb
+E:\LironReviewMergeSort\LironReviewMergeSort\obj\Debug\netcoreapp3.1\LironReviewMergeSort.genruntimeconfig.cache
